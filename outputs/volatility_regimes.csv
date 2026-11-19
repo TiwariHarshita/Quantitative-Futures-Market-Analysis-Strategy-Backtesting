@@ -1,0 +1,7 @@
+strategy,regime,observations,average_daily_net_return_pct,positive_days_pct
+Momentum,High volatility,330,-7.981446892943866e-05,51.21212121212121
+Momentum,Low volatility,120,-0.04540691246994818,47.5
+Mean Reversion,High volatility,330,0.05535173627879929,30.303030303030305
+Mean Reversion,Low volatility,120,0.00871823159817528,26.666666666666668
+Buy and Hold,High volatility,330,-0.023335719306072467,49.696969696969695
+Buy and Hold,Low volatility,120,0.11407043541127296,51.66666666666667
